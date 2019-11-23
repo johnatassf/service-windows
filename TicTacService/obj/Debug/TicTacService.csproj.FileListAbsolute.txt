@@ -1,0 +1,9 @@
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\obj\Debug\TicTacService.csprojAssemblyReference.cache
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\bin\Debug\TicTacService.exe.config
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\bin\Debug\TicTacService.exe
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\bin\Debug\TicTacService.pdb
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\bin\Debug\Topshelf.dll
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\bin\Debug\Topshelf.xml
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\obj\Debug\TicTacService.csproj.CopyComplete
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\obj\Debug\TicTacService.exe
+C:\Users\T2S-JOHNATAS\source\repos\TicTacService\TicTacService\obj\Debug\TicTacService.pdb
